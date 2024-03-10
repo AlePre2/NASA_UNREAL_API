@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alepr\\documents\\unreal projects\\nasa_api_project2\\plugins\\nasa_api\\source\\nasa_api\\private\\epic\\epic_base.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alepr\\documents\\unreal projects\\nasa_api_project2\\intermediate\\build\\win64\\x64\\nasa_api_project2editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\alepr\\documents\\unreal projects\\nasa_api_project2\\plugins\\nasa_api\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\nasa_api\\definitions.nasa_api.h",
+            "c:\\users\\alepr\\documents\\unreal projects\\nasa_api_project2\\plugins\\nasa_api\\source\\nasa_api\\public\\epic\\epic_base.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "c:\\users\\alepr\\documents\\unreal projects\\nasa_api_project2\\plugins\\nasa_api\\intermediate\\build\\win64\\unrealeditor\\inc\\nasa_api\\uht\\epic_base.generated.h",
+            "c:\\users\\alepr\\documents\\unreal projects\\nasa_api_project2\\plugins\\nasa_api\\source\\nasa_api\\public\\nasa_api_commonfunction.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

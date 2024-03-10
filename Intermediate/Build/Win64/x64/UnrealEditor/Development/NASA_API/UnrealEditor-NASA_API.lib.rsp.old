@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NASA_API.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alepr\Documents\Unreal Projects\NASA_API_Project2\Intermediate\Build\Win64\x64\NASA_API_Project2Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\alepr\Documents\Unreal Projects\NASA_API_Project2\Plugins\NASA_API\Intermediate\Build\Win64\x64\UnrealEditor\Development\NASA_API\Module.NASA_API.cpp.obj"
+"C:\Users\alepr\Documents\Unreal Projects\NASA_API_Project2\Plugins\NASA_API\Intermediate\Build\Win64\x64\UnrealEditor\Development\NASA_API\NeoBrowse.cpp.obj"
+"C:\Users\alepr\Documents\Unreal Projects\NASA_API_Project2\Plugins\NASA_API\Intermediate\Build\Win64\x64\UnrealEditor\Development\NASA_API\GetMarsPhotosByEarthDate.cpp.obj"
+"C:\Users\alepr\Documents\Unreal Projects\NASA_API_Project2\Plugins\NASA_API\Intermediate\Build\Win64\x64\UnrealEditor\Development\NASA_API\Default.rc2.res"
+/OUT:"C:\Users\alepr\Documents\Unreal Projects\NASA_API_Project2\Plugins\NASA_API\Intermediate\Build\Win64\x64\UnrealEditor\Development\NASA_API\UnrealEditor-NASA_API.lib"

@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NASA_API.cpp.obj": [
+			"APOD_BASE.gen.cpp.obj",
+			"EPIC_Base.gen.cpp.obj",
+			"GetMarsPhotosByEarthDate.gen.cpp.obj",
+			"NASA_API.init.gen.cpp.obj",
+			"NASA_APISettings.gen.cpp.obj",
+			"NeoBrowse.gen.cpp.obj",
+			"StarWithExoplanetList.gen.cpp.obj",
+			"APOD_BASE.cpp.obj",
+			"StarWithExoplanetList.cpp.obj",
+			"NASA_API.cpp.obj",
+			"NASA_APISettings.cpp.obj",
+			"NASA_API_COMMONFUNCTION.cpp.obj",
+			"NeoBrowse.cpp.obj",
+			"EPIC_Base.cpp.obj",
+			"GetMarsPhotosByEarthDate.cpp.obj"
+		]
+	}
+}
